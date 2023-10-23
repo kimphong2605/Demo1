@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $sql = "DELETE FROM product WHERE Id = $pid";
 
     if ($blink->query($sql) === true) {
-        header('Location: home.php');
+        header('Location: index.php');
     } else {
         echo "Error: " . $sql . "<br>" . $blink->error;
     }

@@ -15,7 +15,7 @@ if (isset($_POST['btnLogin'])) {
         if ($row) {
             echo "Login successfully";
             $_SESSION['user_name'] = $row['Name'];
-            header("Location: home.php");
+            header("Location: index.php");
             exit;
         } else {
             echo "Something is wrong with your login information. <br>";
