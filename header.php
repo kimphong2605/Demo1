@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" id="navsup">
                 <!--left-->
                 <div class="navbar-nav">
-                    <a href="home.php" class="nav-link">Home</a>
+                    <a href="index.php" class="nav-link">Home</a>
                     <a href="allproduct.php" class="nav-link">Product</a>
                     <a href="search.php" class="nav-link">Search</a>
                 </div>
