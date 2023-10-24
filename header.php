@@ -41,8 +41,8 @@
                     <?php
                     else:
                     ?>
-                    <a href="Register.php" class="nav-link">Register</a>
-                    <a href="Login.php" class="nav-link">Login</a>
+                    <a href="register.php" class="nav-link">Register</a>
+                    <a href="login.php" class="nav-link">Login</a>
                     <?php
                     endif;
                     ?>
