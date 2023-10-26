@@ -29,6 +29,7 @@
                     <a href="index.php" class="nav-link">Home</a>
                     <a href="allproduct.php" class="nav-link">Product</a>
                     <a href="search.php" class="nav-link">Search</a>
+                    <a href="productadd.php" class="nav-link">Add Product</a>
                 </div>
                 <!--right-->
                 <div class="navbar-nav ms-auto">
